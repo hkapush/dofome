@@ -1,0 +1,9 @@
+{
+  "module": {
+    "name": "Login",
+    "type": "har",
+    "deviceTypes": [
+      "default"
+    ]
+  }
+}

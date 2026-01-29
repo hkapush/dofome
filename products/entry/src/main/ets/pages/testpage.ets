@@ -1,4 +1,5 @@
 import { HMRouter } from "@hadss/hmrouter";
+import { LoginPage } from "login";
 
 
 @HMRouter({ pageUrl: "TwoPage" })
@@ -7,7 +8,7 @@ export struct testPage{
   build() {
 
     Column(){
-      Text('第二个界面')
+      LoginPage()
     }
     .height('100%')
     .width('100%')

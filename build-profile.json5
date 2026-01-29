@@ -67,6 +67,10 @@
     {
       "name": "mine",
       "srcPath": "./features/mine",
+    },
+    {
+      "name": "Login",
+      "srcPath": "./features/Login",
     }
   ]
 }
