@@ -1,0 +1,11 @@
+{
+  "name": "home",
+  "version": "1.0.0",
+  "description": "Home module with main page and tabs",
+  "main": "Index.ets",
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "@hadss/hmrouter": "^1.2.2"
+  }
+}

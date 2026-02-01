@@ -7,7 +7,8 @@
   "license": "",
   "dependencies": {
     "@hadss/hmrouter": "^1.2.2",
-    "login": "file:../../features/Login"
+    "login": "file:../../features/Login",
+    "home": "file:../../features/Home"
   }
 }
 

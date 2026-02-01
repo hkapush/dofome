@@ -1,5 +1,25 @@
 {
   "src": [
-    "pages/Index"
+    "pages/Index",
+    "pages/LoginPage",
+    "pages/HomePage",
+    "pages/TaskDetailPage",
+    "pages/CreateTaskPage",
+    "pages/ChatPage",
+    "pages/MyStorePage",
+    "pages/ProductDetailPage",
+    "pages/ExchangeConfirmPage",
+    "pages/ExchangeCodePage",
+    "pages/StoreDetailPage",
+    "pages/ContactsPage",
+    "pages/AddFriendPage",
+    "pages/WalletPage",
+    "pages/UserTasksPage",
+    "pages/TeamDetailPage",
+    "pages/GroupChatPage",
+    "pages/MyPurchasesInStorePage",
+    "pages/PurchaseDetailPage",
+    "pages/CreateStorePage",
+    "pages/CreateTeamPage"
   ]
 }

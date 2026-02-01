@@ -71,6 +71,10 @@
     {
       "name": "Login",
       "srcPath": "./features/Login",
+    },
+    {
+      "name": "Home",
+      "srcPath": "./features/Home",
     }
   ]
 }
